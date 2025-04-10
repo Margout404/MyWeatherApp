@@ -27,7 +27,7 @@ It fetches real-time weather data from the [Open-Meteo API](https://open-meteo.c
 
 ## Visit the App
 
-## 🔧 How to Run Locally
+### 🔧 How to Run Locally
 
 1. Clone the repository:
    ```bash
