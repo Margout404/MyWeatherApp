@@ -25,9 +25,22 @@ It fetches real-time weather data from the [Open-Meteo API](https://open-meteo.c
 
 ---
 
-## Visit the App
+## 📸 Preview
 
-### 🔧 How to Run Locally
+<img src="dark.png" alt="WeatherApp Screenshot" width="600"/>
+<img src="light.png" alt="WeatherApp Screenshot" width="600"/>
+
+
+
+
+
+## 🔗 Visit the App
+
+[🌐 MyWeatherApp Live](https://margout404.github.io/MyWeatherApp/)
+
+---
+
+## 🔧 How to Run Locally
 
 1. Clone the repository:
    ```bash
